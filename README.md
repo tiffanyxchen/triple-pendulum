@@ -58,3 +58,38 @@ You can also adjust initial angles and angular velocities to explore chaotic eff
 
 ---
 
+## 🌀 Example Output
+
+Below is an example of the triple pendulum simulation in action.  
+Each pendulum starts from different initial angles, leading to chaotic motion over time.
+
+![Triple Pendulum Simulation](./triple_pendulum_highPot.gif)
+
+*The animation above was generated directly from the simulation script.*
+
+---
+
+## 🚀 Future Improvements
+
+- Add user input for initial angles and pendulum lengths.  
+- Implement energy and phase-space visualizations.  
+- Integrate backend and frontend (NestJS + React) for interactive simulations.  
+- Optimize numerical solver for performance and stability.  
+- Extend to quadruple pendulum or coupled pendulum systems.  
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 👩‍💻 Author
+
+**Tiffany Chen**  
+📧 [xing.t.chen@gmail.com](mailto:xing.t.chen@gmail.com)  
+💻 [GitHub: tiffanyxchen](https://github.com/tiffanyxchen)
+
+
+
