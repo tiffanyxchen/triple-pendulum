@@ -31,3 +31,30 @@ Make sure you have the following Python packages installed:
 
 ```bash
 pip install numpy matplotlib scipy
+```
+
+---
+
+## ▶️ Run the Simulation
+
+Simply execute the Python file:
+
+```bash
+python triple_pendulum.py
+```
+
+---
+
+## ⚙️ Parameters (hardcoded)
+
+Inside the script, you can modify parameters such as:
+
+```python
+g = 9.8      # gravitational acceleration (m/s^2)
+L = 1.0      # length of each pendulum (m)
+m = 1.0      # mass of each pendulum (kg)
+```
+You can also adjust initial angles and angular velocities to explore chaotic effects.
+
+---
+
